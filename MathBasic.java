@@ -18,12 +18,12 @@ public class MathBasic {
 //
 //        BMI = wight / ((hight/100)*(hight/100));
 //        System.out.println(BMI);
-
-        double bytes =5 ;
-        double MB =1048576 ;
-
-        MB = bytes = 5/1048576 ;
-        System.out.println(total);
-        //
+//
+//        double bytes =5 ;
+//        double MB =1048576 ;
+//
+//        MB = bytes = 5/1048576 ;
+//        System.out.println(total);
+//        //
         }
 }
