@@ -1,5 +1,3 @@
-package com.projext.java_basic;
-
 public class TypeVariables {
     public static void main(String[] args) {
         String name = "Taratep"; //ประกาสตัวแปรแบบข้อความ
